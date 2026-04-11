@@ -19,3 +19,14 @@ class Solution {
         return start;
     }
 }
+
+
+
+
+//dryb run
+// nums = [1,3,5,6], target = 2
+
+// | start | end | mid | nums[mid] | action    |
+// | ----- | --- | --- | --------- | --------- |
+// | 0     | 3   | 1   | 3         | end = 0   |
+// | 0     | 0   | 0   | 1         | start = 1 |
