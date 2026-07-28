@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0035-search-insert-position) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0226-invert-binary-tree) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0226-invert-binary-tree) |
@@ -70,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0543-diameter-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
