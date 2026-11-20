@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0036-valid-sudoku) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0540-single-element-in-a-sorted-array) |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/vanshvanshpatle-arch/vansh-patle/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
